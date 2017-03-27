@@ -8,7 +8,7 @@ else
     direc = 'tu path ';
 end
 
-subject = 'mg01';
+subject = 'fb01';
 
 cd(fullfile(direc,'data',subject))
 
